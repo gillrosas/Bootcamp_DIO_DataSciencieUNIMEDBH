@@ -1,4 +1,4 @@
-
+#Escrever um codifo que o proprietario insere os dados da bicicleta e que saber a cor,se esta parado, buzinando
 
 
 class bicicleta:
